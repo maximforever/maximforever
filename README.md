@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a product-driven senior full-stack web developer, specializing in **intuitive data-driven UIs, and front-end performance and architecture**. I feel equally comfortable prototyping a new interface or developing new features for a legacy application. I'm involved in team learning and development, internal tooling, and hiring. I also regularly teach and write.
+I'm a product-driven senior full-stack web developer. I specialize in intuitive data-driven UIs and performant front-end architecture. I feel equally comfortable prototyping a new app or building features on top of a legacy codebase. In addition to my engineering work, I'm involved in hiring and team learning and development. I regularly write and teach.
 
 I'm currently helping build [Execute Program](https://executeprogram.com) (the best place to learn TypeScript on the web) and writing for the StackOverflow [blog](https://stackoverflow.blog/author/maxpekarsky/). In the past, I worked on engineering and product teams at [CAS](https://activestewardship.org/), [Bonus.ly](https://bonusly.com/), [Codecademy](https://www.codecademy.com/), and the [NYC Mayor's Office](https://www.nyc.gov/site/opportunity/index.page). 
 
